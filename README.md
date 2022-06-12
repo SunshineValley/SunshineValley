@@ -1,5 +1,5 @@
 ### Hi there 👋
-The homepage is being constructing~~~~
+The homepage is being constructed~~~~
 
 <!--
 **SunshineValley/SunshineValley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
