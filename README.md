@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Cyrus.
 
-![Profile views](https://gpvc.arturio.dev/SunshineValley)
 
 ## About Me 🚀
 🎓 I'm an undergraduate student at Jilin University <br>
