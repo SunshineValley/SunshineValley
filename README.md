@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Cyrus.
 
-![Profile views](https://gpvc.arturio.dev/[YourGithubUsername])
+![Profile views](https://gpvc.arturio.dev/SunshineValley)
 
 ## About Me 🚀
 🎓 I'm an undergraduate student at Jilin University <br>
@@ -29,8 +29,6 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a React app from scratch](#)
-- [Understanding JavaScript Closures](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
