@@ -2,8 +2,8 @@
 
 
 ## About Me 🚀
-🎓 I'm an undergraduate student at Jilin University <br>
-👨‍💻 I enjoy working with C++, go, java, javascript, kotlin, swift, assembly language <br>
+🎓 I'm an undergraduate student at Jilin University. <br>
+👨‍💻 I enjoy working with C++, go, java, javascript, kotlin, swift, assembly language. <br>
 🌱 Currently learning more about algorithm, Systems Design, and Artificial Intelligence. <br>
 💬 Ask me about anything, I am happy to help. <br>
 📫 How to reach me: [email](mailto:songtianyi03@gmail.com)
